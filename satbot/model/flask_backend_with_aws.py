@@ -5,7 +5,7 @@
 # Script to call from command line to launch application
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 
-from model import create_app
+from satbot.model import create_app
 
 # ~~~ Create application ~~~ #
 application = create_app()

@@ -1,14 +1,13 @@
 import nltk
 
-from model.models import UserModelSession, Choice, UserModelRun, Protocol
-from model.classifiers import get_emotion, get_sentence_score
+from satbot.model.models import UserModelSession, Choice, UserModelRun
+from satbot.model.classifiers import get_emotion, get_sentence_score
 import pandas as pd
 import numpy as np
 import random
 from collections import deque
 import re
 import datetime
-import time
 
 nltk.download("wordnet")
 from nltk.corpus import wordnet  # noqa

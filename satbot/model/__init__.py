@@ -1,6 +1,6 @@
 from flask_sqlalchemy import SQLAlchemy
 from flask_migrate import Migrate
-from model.config import Config
+from satbot.model.config import Config
 import json
 from flask import Flask, request
 from flask_cors import CORS
@@ -46,8 +46,8 @@ def create_app():
 
     CORS(app, resources={r"/*": {"origins": "*"}})
 
-    from model import models  # noqa
-    from model.models import User, UserModelSession  # noqa
+    from satbot.model import models  # noqa
+    from satbot.model.models import User, UserModelSession  # noqa
 
     # @app.route('/')
     # def home():
@@ -285,7 +285,7 @@ def create_app():
     return app
 
 
-from model.rule_based_model import ModelDecisionMaker  # noqa
+from satbot.model.rule_based_model import ModelDecisionMaker  # noqa
 
 decision_maker = ModelDecisionMaker()
 

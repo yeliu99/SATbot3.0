@@ -1,5 +1,5 @@
-from model import db, create_app
-from model.models import User
+from satbot.model import db, create_app
+from satbot.model.models import User
 
 app = create_app()
 

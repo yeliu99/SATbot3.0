@@ -4,7 +4,7 @@
 # # Creates sql tables for use by flask
 # # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 
-from model import db
+from satbot.model import db
 import datetime
 from sqlalchemy import DateTime
 
