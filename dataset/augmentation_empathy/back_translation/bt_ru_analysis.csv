@@ -1,0 +1,331 @@
+utterance,empathy,distance,similarity,grammatical_errors
+"If you don't mind, are you ready to repeat it or finish the conversation now?",1.0,17,0.6097196340560913,0
+"That's fine, thank you. I know it can be difficult for you to discuss, but your information has been very helpful.",2.0,16,0.5340256094932556,0
+"This is really useful, thank you. Did your childhood treat yourself with excitement and benevolence?",2.0,10,0.6420361995697021,0
+"Cool, thanks for the answer. I know it's not always easy, but everything you can tell me will help me understand your situation better. Do you think the feelings / attractions your childhood experiences are similar to those of any of their primary caregivers (such as parents or relatives, who take most of the responsibility for their care during childhood)?",2.0,27,0.8970397710800171,1
+"Thank you for your answer, I would very much like to help. Has your childish behavior become more childish or primitive in relation to {}?",2.0,10,0.7378441691398621,0
+Good job! Thank you very much for your cooperation. Then I wondered if this negative emotion had anything to do with your childhood's interaction with someone else?,2.0,6,0.965831458568573,0
+"Thank you for sharing. Good to know this. From childhood, your ""self"" felt but did not express {} in relation to {}. May I ask if your ""self"" ever expressed this in relation to any other people?",2.0,19,0.888604462146759,0
+"I understand that it is sometimes uncomfortable to reflect on difficult events. To better understand your emotions, let me ask you whether you experienced any serious illness or trauma as a child when people physically, sexually, psychologically abused you when you were young.",2.0,31,0.8895357847213745,0
+"Thank you for sharing your emotions. Based on what you said, I would say that you feel {correct}, are my assumptions correct? Please feel free to correct me if not.",2.0,5,0.9726122617721558,0
+"Oh, I'm so sorry I misunderstood you. Perhaps you could indicate from the list below which emotion best reflects your feelings? If so, please let me know by selecting it:",2.0,7,0.960106611251831,0
+"Thank you, I understand. I fully understand how you feel and it must be so hard.",2.0,20,0.600189208984375,0
+"Thank you for letting me know, I am terribly sorry that you feel this way. Do you feel that your current emotions may have been caused by a particular event or events? You can be open with me.",2.0,6,0.9494271278381348,0
+Let me also ask whether this was caused by a recent or distant event (or events)? I hope you have not been too badly affected by this event.,1.0,16,0.8549582958221436,0
+"Well, thank you for that. Did you give the 9th grade a try, and did it evoke the same heavy emotions you felt about this event? If it did, I hope you weren't too hard hit by this exercise.",2.0,18,0.8072279095649719,0
+"Knowing that your feelings matter to me, I must ask you about your previous interactions with Coke. If you were able to try Coke 10, and if so, did you feel that Coke caused the same difficult emotions you experienced in the past? If so, I hope you did not suffer too much from this exercise.",2.0,21,0.6223492622375488,0
+"To understand why you feel this way in detail, I would like to ask you a few questions, if I may.",1.0,25,0.5664174556732178,0
+I appreciate that you are sharing this with me. I would like to move on to some other issues if you agree so that I can better understand your situation.,2.0,25,0.6225849986076355,0
+"That's good! I'm glad to hear you feel great now. But since my job is to help people cope better with difficult emotions, I have the unusual courtesy of asking to continue the conversation.",2.0,35,0.7288417220115662,0
+"It's not easy to overcome difficult emotions. For more help, I've collected some tips on how to deal with negative feelings that you might find useful. Are you interested in trying some of them by accident?",2.0,7,0.9328529834747314,0
+"Welcome! Did this king make you feel better or worse? I very much hope that the king helped you, but feel free to tell me if this is not the case.",2.0,12,0.2939572334289551,0
+"Okay, it's great to hear, but what about we try another one and see how we go from there?",2.0,8,0.8706991672515869,0
+"OK, don't worry, we have a few more options that might be better for you. Maybe we should sit down and try another option that might be better for you?",2.0,7,0.7981525659561157,0
+"Unfortunately, I am currently unable to fully understand what is going on beneath your feelings.",1.0,19,0.6475276350975037,0
+"Thank you. I know it can be difficult for you to discuss, but your information was very useful.",2.0,21,0.6063438057899475,0
+Don't you think your childhood is sometimes too friendly?,0.0,15,0.6460651755332947,0
+"Thank you, I fully understand your situation. I know that it is not always easy, but anything you can tell me will help me to understand your situation better.",2.0,45,0.6744130849838257,0
+I would very much like to understand your emotions better and reach out to you. Do you feel that your childhood may sometimes have some special behavior toward {that} can be regarded as childish or primitive?,2.0,21,0.799992561340332,0
+"I understand that it can be difficult, but I would be very grateful if you could share it with me.",2.0,27,0.5794447660446167,0
+"I understand, thank you for letting me know. So you discover that your childhood-I felt for {but kept it on myself.}",2.0,25,0.7083029747009277,0
+"I am very sorry, but would you not tell me if your childhood had experienced some serious illness / trauma from which they might have suffered physical, sexual or psychological abuse?",2.0,39,0.8008760809898376,0
+"Thank you for sharing your emotions. Sounds as if you {are}, does it? Please feel free to correct me if not.",2.0,9,0.9638271331787108,0
+"If so, please let me know by selecting it:",0.0,30,0.3113625049591064,0
+"I understand, thanks for taking the time to answer that question.",1.0,24,0.3519943952560425,0
+"Thank you for letting me know, I am terribly sorry that you feel this way. Has anything happened that made you feel this way? You can be open with me.",2.0,9,0.955447793006897,0
+"Let me also ask whether it was caused by a recent or distant event (or events)? In any case, I hope it was not too traumatic for you.",1.0,15,0.8881291151046753,0
+"Well, thank you for that. Have you tried the 9th injection, and do you think that might be why you have such negative feelings? If it did happen, I hope you didn't suffer too much from this exercise.",2.0,15,0.8104881644248962,0
+"Thank you for sharing this with me, I understand that it can be difficult. You recently tried the drug Kohl 10 and found that it brought undeniable emotions stemming from past events to life? If this happened, I hope you did not suffer too much from this exercise.",2.0,13,0.8506008982658386,0
+"I am sorry that you are offended, please bear with me while I try to sort this out further.",2.0,23,0.5895600318908691,0
+I appreciate that you are sharing this with me. I am in agreement with your emotions and we will figure out how to overcome them.,2.0,28,0.5764387845993042,1
+"I'm sorry to bother you, but my job is to help people cope better with difficult emotions, and to continue the conversation, may I kindly ask you to recall a painful episode when you had difficult emotions in the past?",2.0,20,0.9338715076446532,0
+"I fully understand the situation and, frankly, overcoming negative feelings is not easy. But there are certainly some useful tips to try.",2.0,29,0.6940240859985352,0
+"Thank you and welcome back. How do you feel after this meeting, better or worse? I very much hope that the meeting helped you, but feel free to tell me if this is not the case.",2.0,9,0.6796306371688843,0
+"I'm so glad you're feeling better, I think this is great! How about we try another one and see how we get on?",2.0,0,0.9999999403953552,0
+It's sad to hear that you feel worse. What about trying another one and seeing how we deal with it?,2.0,13,0.8109411001205444,0
+"At the moment, I cannot fully understand what is going on beneath your feelings. Please let me resume the conversation or try next time?",2.0,15,0.7898769974708557,0
+"I know that this can be difficult for you to discuss, but your information has been very helpful. Let me further ask whether you had an extreme conflict with {,} for example, a fight?",2.0,9,0.9582083821296692,1
+"Thanks for sharing, it helps me understand what you've been through.",1.0,15,0.5421443581581116,0
+"I know that it is not always easy, but anything you can tell me will help me to understand your situation better.",2.0,30,0.5990124940872192,0
+Thank you for your answer. I would very much like to understand your emotions better and reach out to you. Do you think your childish self behaves more childishly?,2.0,15,0.7180943489074707,0
+"If this is normal, please tell me if this negative emotion has more or less to do with your interaction with someone else?",1.0,16,0.8005715608596802,0
+"Since your childhood-I didn't express my {feelings} toward {if you don't mind}, could you please tell me if your childhood-I expressed these negative emotions toward someone else?",1.0,22,0.8329300880432129,0
+"I know it can be very uncomfortable to reflect on difficult events from your past, but I am here to give you a better understanding of your situation.",2.0,45,0.508260190486908,0
+"Thank you, I just want to make sure we are on the same page. If I get it right, do you feel {that}? Please feel free to correct me if not.",2.0,9,0.9037717580795288,0
+"My apologies for not understanding how you really feel. It would be very helpful if you could choose an emotion below that really reflects how you feel. If so, please let me know by selecting it:",2.0,11,0.904010534286499,0
+Thank you for your answer. May I ask whether your childhood experiences periods of depressive thoughts or feelings of failure from time to time?,1.0,5,0.9261083602905272,0
+"Thank you for letting me know, I am terribly sorry that you feel this way. Could this be related to a specific event? You can be open with me.",2.0,8,0.9558851718902588,0
+"You must be hurting right now. Do you think something recent caused this feeling, or was it something more distant? I hope you are not too badly affected by this event.",2.0,5,0.968985676765442,0
+"Well, thank you for that. Have you tried the 9th injection, and if so, have you opened the wounds that caused an explosion of emotion in looking back at this recent event? If so, I hope you have not suffered too much from this exercise.",2.0,29,0.8084192276000977,0
+"If you were able to try the 10th injection, and if so, did you feel that the injection evokes the same complex emotions that you experienced in the past? If this happened, I hope you did not suffer too much from this exercise.",2.0,22,0.7107875347137451,0
+"I am sorry that you are offended, please bear with me while I try to explore this further.",2.0,22,0.6636030077934265,0
+"Now I have a few more questions that I would like to ask, as I hope it will help me to understand your situation better. Do you think that your childhood - I experienced some negativity towards them?",2.0,36,0.7338669300079346,0
+I'm very pleased to see you feel so good today!! Life has ups and downs and it's great to learn to overcome less fortunate moments and enjoy pleasant days.,2.0,36,0.861601710319519,1
+"I understand that you face difficulties. Based on what you have told me, I have selected a few recipes that may be useful to you.",2.0,22,0.4968148171901703,0
+"Thank you, I hope it helped you. Did it make you feel better or worse? I really hope it helped you, but feel free to tell me if it didn't.",2.0,16,0.5648326873779297,0
+"I'm so glad you feel better, I think it's great!",2.0,12,0.6183329820632935,0
+I am very sorry to hear this. Perhaps we should sit down and try another option that might be more beneficial to you?,2.0,5,0.8141408562660217,0
+"Thank you for your answer, but I am sorry that I could not understand the mechanism of protection.",1.0,21,0.5226821899414062,0
+"Okay, thank you. I know it can be difficult for you to discuss, but your information was very useful.",2.0,18,0.5922837257385254,0
+"Thanks for sharing, it helps me understand what you've been through.",1.0,13,0.6203054189682007,0
+"Thank you, I appreciate your answer. I know it's not always easy, but anything you can tell me will help me understand your situation better.",2.0,39,0.5249949097633362,0
+"Well, thank you for that. I really would like to understand your emotions better and reach out to you. Do you think your childhood-I behaved more childishly or primitively when dealing with {}?",2.0,12,0.8351767659187317,0
+"If you are all right, may I ask, is there anyone who made your childhood experience this kind of negative feelings?",1.0,14,0.8583866357803345,0
+"Well, thank you for your answer. Reflecting on my childhood, I felt about {but did not express it}. Is it possible that your childhood-I express it to someone else?",2.0,14,0.7695637941360474,0
+"Thank you, I very much appreciate your cooperation. I feel you completely, thinking about the events in which you suffered, sometimes it can be painful. Did your child-me ever suffer any serious illness or trauma that people subjected him to physical, sexual or psychological abuse?",2.0,25,0.8682843446731567,0
+"Thank you for sharing. From what you told me, it seems that you feel {so}, does it? Please feel free to correct me if not.",2.0,9,0.8990197777748108,0
+"If you could, please tell me how you feel by selecting it from the list below: If yes, please let me know by selecting it:",2.0,14,0.737707257270813,0
+"I understand, thank you, that you took the time to answer this question. It must be very difficult for you now. I fully understand how you feel.",2.0,18,0.6712108254432678,0
+"Thank you for letting me know, I'm terribly sorry that you feel this way. Can you tell me if a particular event may have caused it? If so, I hope it wasn't too difficult for you.",2.0,8,0.972573220729828,0
+"You must be offended now. Do you think something recent caused this feeling, or was it something more distant?",2.0,12,0.7251407504081726,0
+"Thank you for being so open, I am trying to figure out the best way to help and I know how hard it is to recall recent painful events. Have you tried Kohl 9, and did it cause you any negative emotions? If it did, I hope you didn't suffer too much from this exercise.",2.0,12,0.8499218821525574,1
+"I am very sorry that you are going through this. Have you tried Exercise 10 and it has led to some bad feelings because of what has happened in the past? If it has happened, I hope you have not suffered too much from this exercise.",2.0,20,0.7994953393936157,1
+"I am sorry that you are offended, please bear with me while I try to explore this further. What I would like to do now is ask a few questions about what is going on just so that I can better understand what is going on.",2.0,10,0.7523922920227051,0
+"If you agree, I would like to ask you a few more questions so that I can better understand your situation. Have you noticed that you have a negative attitude towards your childish self?",2.0,32,0.7385319471359253,0
+"Bryant, I'm glad to hear you speak positively now! But it's also good to learn how to deal with negative emotions.",2.0,27,0.6577613353729248,0
+"I am sorry for your situation. I understand that it may not be easy to overcome difficult emotions. For more help, I have collected some tips on how to deal with negative feelings that you might find useful.",2.0,23,0.9306605458259584,0
+"Thank you, I hope that this has helped you. Now that the season is over, do you feel different than before? I very much hope that the season has helped you, but feel free to tell me if this is not the case.",2.0,20,0.4245624542236328,1
+"I'm so glad you're feeling better, I think this is great! Would you like to try something new now?",2.0,0,1.0,0
+"Not every king works for everyone, and that's fine, I would recommend not giving up and trying again.",2.0,12,0.4560688734054565,0
+"My apologies, but I can't understand any defense mechanism from what you told me. Would you rather end the conversation now or repeat it again?",2.0,8,0.907972514629364,0
+"I understand, thank you. I know it can be difficult for you to discuss, but your information was very useful.",2.0,15,0.6715277433395386,0
+"Okay, thank you for your honesty. I understand that your childhood-I had negative emotions towards {,} but was your childhood-I extremely friendly to {,}?",2.0,16,0.9141603112220764,2
+"Thank you, I know it's not always easy, but anything you can tell me will help me understand your situation better.",2.0,41,0.5572901964187622,0
+"Well, thank you for that. I really would like to understand your emotions better and extend a hand to you. Then I would ask whether your childish self behavior is, to some extent, more childish or primitive in relation to {?",2.0,20,0.8668442964553833,1
+"I understand that it can be difficult, but I would be very grateful if you could share it with me.",2.0,28,0.6328262090682983,0
+Thank you for opening up to me. I would like to help you understand your negative thoughts.,1.0,26,0.6503720879554749,0
+"It may be uncomfortable to think about difficult events that have taken place. But I am here to give you a better understanding of your situation, I hope you don't mind me asking you if your childhood has experienced any serious illness or trauma, for example, whether your childhood has ever been subjected to physical, sexual or psychological abuse by others?",2.0,27,0.9232468605041504,0
+"Thank you for opening up to me. From what you have told me, I would say that you feel {right now}, does that sound right? Please feel free to correct me if not.",2.0,7,0.9700651168823242,0
+Please give me a bit of help to make sure that I really understand you can choose from this list of emotions the one that best describes how you feel:,2.0,17,0.828201174736023,0
+"I fully understand how you feel, and it must be so hard. Did you feel depressed, depressed, or even an occasional loser as a child?",2.0,20,0.7268795967102051,0
+"So that I can help you better, could you tell me if a particular event has made you feel that way? You can be open with me.",2.0,13,0.828772783279419,0
+Can you say that it was a recent or distant event (or events) that triggered these emotions? I hope you were not too badly affected by this event.,1.0,15,0.8217935562133789,0
+"Thank you for being so open, I am trying to figure out the best way to help and understand how difficult it is to recall recent painful events. Have you noticed any emotions that have arisen from the 9th grade attempt (if you have tried to do so) in connection with recent events? If this has happened, I hope you have not suffered too much from this exercise.",2.0,31,0.8754833936691284,0
+"I am very sorry that you are going through this. Have you noticed any emotions that have arisen from attempt 10 (if you have tried to do so) because of past events? If this has happened, I hope you have not suffered too much from this exercise.",2.0,23,0.8752522468566895,0
+What I would like to do now is ask a few questions about what is going on just so that I can better understand what is going on.,1.0,20,0.6972700357437134,0
+I appreciate that you are sharing this with me. I am in agreement with your emotions and we will figure out how to overcome them.,2.0,21,0.5953572988510132,1
+"Bryant! I am pleased to hear that you are feeling great right now. But since my job is to help people cope better with difficult emotions, I have the unusual courtesy of asking you to continue the conversation. Can I ask you to recall painful experiences you have had in the past?",2.0,19,0.7216084003448486,0
+I have collected some useful tips on how to deal with negative feelings.,1.0,19,0.7404351234436035,0
+"Did this Cole make you feel better or worse? I very much hope that Cole helped you, but feel free to tell me if this is not the case.",2.0,16,0.2941139340400696,0
+"I'm so glad you're feeling better, I think this is great! Would you like to try something new?",2.0,0,1.0,0
+"I am sorry to hear that you feel worse. I have other suggestions that could help, if you like.",2.0,0,1.0,0
+"I am sorry that I cannot understand any of the defensive mechanisms that you have told me. Would you like to end our conversation here, or would you like to try again?",2.0,12,0.8180682063102722,0
+"I know it can be difficult for you to discuss, but your information has been very helpful.",2.0,18,0.5682006478309631,0
+"Thank you for sharing this, it's really helpful. Do you think your childhood self was extremely friendly to {?",2.0,10,0.9189092516899108,1
+"Thank you, I know it's not always easy, but anything you can tell me will help me understand your situation better.",2.0,27,0.6459584832191467,0
+"Okay, thank you for that. I would very much like to understand your emotions better and reach out to you. Would you mind sharing if your childish self becomes more childish in relation to {}?",2.0,14,0.7832783460617065,0
+"Well, thank you for that. Do you mind saying if this negative emotion has anything to do with your childhood's interaction with someone else?",2.0,13,0.9101387858390808,0
+"I understand, thank you for letting me know. So, your childhood-I felt for {but did not express it}.",2.0,26,0.7136801481246948,0
+"Thank you, I appreciate your cooperation very much. Did your childhood experience any serious illness / trauma when people subjected them to physical, sexual, psychological abuse? I understand that reflecting on difficult events can sometimes be uncomfortable, but I will help you cope with difficult emotions and give you some advice later.",2.0,26,0.9417088627815248,0
+"Thank you for your openness. I think that perhaps you are feeling {}, do you think that's true? Please feel free to correct me if not.",2.0,0,1.0,0
+"Can you let me know how you feel by choosing the right emotion from the list below? If so, please let me know by choosing it:",2.0,9,0.6991075873374939,0
+"I fully understand how you feel. When you look back at your childhood-self, do you think your childhood-self feels depressed or feels like a failure?",2.0,15,0.962458610534668,0
+"Could you tell me if it was caused by a specific event (s)? If so, I hope it was not too difficult for you.",1.0,13,0.8914523720741272,0
+Can you say that it was a recent or distant event (or events) that triggered these emotions?,1.0,20,0.6762305498123169,0
+"I am very sorry that you are going through this. Have you recently gone through ninth grade and, as a result, had uncontrollable emotions reignited by events in the recent past? If this has happened, I hope you have not suffered too much from this exercise.",2.0,19,0.8251826763153076,0
+"I am very sorry that you are going through this. Have you tried the 10th injection, and if so, have you had negative thoughts about the past that have left your mind stuck in this event? If this has happened, I hope you have not suffered too much from this exercise.",2.0,21,0.8144635558128357,0
+"I am sorry that you are offended, please bear with me while I try to explore this further.",2.0,22,0.6636030077934265,0
+"If you agree, I would like to ask a few more questions so that I can better understand your situation. Do you think this has a negative impact on your childhood self?",2.0,28,0.6816595792770386,0
+"But my job is to help people cope better with difficult emotions, so I have an unusual opportunity to ask to continue the conversation. Could you please recall a painful episode when you had difficult emotions in the past, if you are all right?",2.0,22,0.8983873128890991,0
+"Overcoming difficult emotions is not easy. For more help, I've collected some tips on how to deal with negative emotions that may be beneficial to you. Are you interested in trying some of them?",2.0,4,0.9851945042610168,0
+"How do you feel after this defeat, for better or worse? I very much hope that the defeat helped you, but do not hesitate to tell me that this is not the case.",2.0,20,0.4594941437244415,0
+"OK, it's great to hear. Will it make you feel even better if you try again?",2.0,6,0.668877899646759,0
+I'm sorry to hear you feel worse.,1.0,12,0.8237930536270142,0
+I am sorry that I cannot identify any defensive mechanism from what you have told me.,2.0,20,0.7274972200393677,0
+"Okay, I see. Thank you for your trust so far. I know it can be difficult for you to discuss, but your information has been very helpful.",2.0,15,0.7691544890403748,0
+Now I would like to know whether your childhood-I ever reacted exceptionally friendly to {?,1.0,12,0.7507729530334473,1
+"Thank you for the answer. I know that it is not always easy, but anything you can tell me will help me to understand your situation better.",2.0,42,0.5819425582885742,0
+I would very much like to understand your emotions better and extend a hand to you. I wondered if your childhood behaves more childishly or primitively towards {}?,2.0,18,0.8459718227386475,0
+"Well done, I really appreciate that you are open to me. I hope you don't mind sharing some details with me.",2.0,21,0.657759428024292,0
+"I understand. Now I have a clear picture, thank you for your information. Your childhood I experienced but did not pass on to {to}. Now I wonder if your childhood does not reveal it to some other people?",2.0,17,0.7934061288833618,0
+"But I am here to give you a better understanding of your situation, I hope you don't mind me asking you if your childhood has been through some serious illness / trauma, that people have physically, sexually, psychologically abused them?",2.0,40,0.8506902456283569,0
+"Thank you for your openness. From what you have told me, I understand that you feel {,} you think it more or less describes how you feel? Please feel free to correct me if not.",2.0,10,0.939791202545166,1
+"I apologize, I must have misunderstood. Just to avoid further confusion, please choose from the emotions below the one that best reflects your current feelings: If so, please let me know by choosing it:",2.0,6,0.8532616496086121,0
+"Thank you, I said, let's see if everything is alright. Do you feel depressed as a child from time to time?",2.0,16,0.7557289600372314,0
+"I am sorry to hear that you feel this way. So that I can help you better, could you tell me if a particular event has made you feel this way? You can be open with me.",2.0,7,0.9534531831741332,0
+"I'm sorry, it must have been hard. Could you say if it was something that happened recently or some time ago? I hope you were not too badly affected by this event.",2.0,11,0.912798285484314,0
+"Can you tell me if you recently tried an injection 9 and found it to be an uncontrollable emotion as a result of recent events? If it did happen, I hope you didn't suffer too much from this exercise.",2.0,25,0.7153970003128052,0
+"Before we go any further, I would like to measure which of these factors is best suited to your situation.",1.0,46,0.3899760246276855,0
+How about we take a look at a few questions and consider some approaches that might make you feel better.,1.0,25,0.5102519392967224,0
+"Thank you for sharing. To better understand my current situation, I would like you to answer this question, if I may. Do you have the impression that you are showing some kind of negative intolerance towards your childish self?",2.0,19,0.777206301689148,0
+"Bryant! It's nice to hear that you are feeling positive now. But my job is to teach people how to deal better with negative emotions, so I have an unusual opportunity to ask to continue. Can you recall a painful episode in the past when you experienced difficult emotions?",2.0,13,0.7596096396446228,0
+"Overcoming difficult emotions is not easy. For more help, I have collected some tips to combat negative emotions that you might find useful.",2.0,24,0.9096066951751708,0
+"Can you say that you felt better or worse after taking the drug? I very much hope that the drug helped you, but do not hesitate to tell me that this is not the case.",2.0,22,0.6494245529174805,0
+"Surprisingly, it's good to hear! Will it make you feel even better if you see another sentence?",2.0,6,0.6931472420692444,0
+I'm sorry to hear you feel worse.,1.0,11,0.8083361387252808,0
+"I am sorry that I cannot find any protection mechanism based on the information provided. Do you want to repeat this again to give us more information, or to end the conversation?",2.0,16,0.7236493825912476,0
+"Okay, thank you. I know it can be difficult for you to discuss, but your information was very useful.",2.0,16,0.6382120847702026,0
+Thank you for your cooperation so far. This information is important. Would you say that your childhood-I'm too friendly with {?,2.0,4,0.925950527191162,1
+"Thank you, I appreciate your answer to this question. I know that it is not always easy, but anything you can tell me will help me understand your situation better.",2.0,41,0.583431601524353,0
+"Thank you, I appreciate your answer very much. To help me understand better, could you please tell me if your childish behavior toward yourself is more primitive or childish than when they are with others?",2.0,15,0.8204757571220398,0
+I hope you don't mind sharing some details with me. Could you please tell me if this negative emotion has anything to do with how your childhood interacted with someone else?,2.0,11,0.9513100385665894,0
+Thank you for letting me know. I understand that your childhood-I experienced {but did not express them in relation to {}. Is it possible that your childhood-I expressed it in relation to someone else?,2.0,12,0.8470343351364136,1
+"Thank you, I appreciate your cooperation very much. Sometimes it can be uncomfortable to think about difficult events that happened before. But to understand your situation better, do you mind me asking if your childhood suffered from a serious illness or some trauma when people physically / sexually / psychologically abused them?",2.0,23,0.967349648475647,0
+"Based on what you have said, I would say that you feel {correct}, are my assumptions correct? Please correct me if I am wrong.",1.0,12,0.8653057813644409,0
+"Oh my apologies, I must have misunderstood. Could you please help me by selecting the option from the list that best matches how you're feeling? If so please let me know by selecting it:",2.0,0,1.0,0
+I fully understand how you feel and it must be so hard. Do you feel depressed as a child or do you feel like an occasional loser?,2.0,23,0.7592470645904541,0
+"I am sorry to hear that you feel this way. So that I can help you better, could you tell me if a particular event has made you feel this way? If so, I hope that it has not been too difficult for you.",2.0,11,0.93732488155365,0
+"Sorry, it must have been hard. Could you tell me if it was something that happened recently or some time ago?",2.0,16,0.8102274537086487,0
+"I am very sorry that you are going through this. Recently you tried to move forward in this recent event with the number 9, and did the injury you were recovering become too difficult to handle? If it did happen, I hope you did not suffer too much from this exercise.",2.0,20,0.8633182048797607,0
+"Before we go any further, I would like to measure which cocoon is best suited to your situation. Have you tried to complete cocoon 10 and it has awakened some bad feelings because of what has happened in the past? If this has happened, I hope you have not suffered too much from this exercise.",2.0,19,0.5162796974182129,1
+What I would like to do now is ask a few questions about what is going on just so that I can better understand what is going on.,1.0,20,0.6972700357437134,0
+Do you agree that you have some kind of negative atlas of your childhood self?,1.0,29,0.5923253893852234,0
+"Bryant! I am pleased to hear that you are feeling positive now. However, my job is to help people cope better with difficult emotions, so I have an unusual opportunity to ask to continue. If you are all right, could you please try to recall a painful episode from your past when you experienced difficult emotions?",2.0,17,0.7601965665817261,0
+"It's not easy to overcome difficult emotions. For more help, I've collected some tips on how to deal with negative feelings that you might find useful. Are you interested in trying some of them by accident?",2.0,7,0.9328529834747314,0
+"Have you coped so well with this? Has this Cole changed, for better or worse, how you feel? I really hope that Cole has helped you, but feel free to tell me if that is not the case.",2.0,20,0.3716336488723755,0
+"Bryant, it's good to hear! How about we try another sentence and see how we go from there?",2.0,6,0.5138391256332397,0
+It's sad to hear that you feel worse.,1.0,13,0.69355309009552,0
+"I am sorry that I cannot understand the mechanism of protection based on the information provided. Do you want to repeat it to provide me with more information, or to end the conversation? Both are fine, it depends on you.",2.0,16,0.7684099674224854,0
+"That's fine, thank you. I know it can be difficult for you to discuss, but your information has been very helpful.",2.0,14,0.5599249601364136,0
+Was your childhood overly friendly and close to {?,0.0,12,0.7108094692230225,1
+"I appreciate your answer to this question. I know that it is not always easy, but anything you can tell me will help me understand your situation better.",2.0,40,0.5813612937927246,0
+"The next question I would like to ask is, would you say that your childhood-self behaves more like a child in relation to {?",1.0,25,0.8314052820205688,1
+"Well, thank you for your answer. You've done a great job so far! If it's OK to continue, let me ask, is there anyone else involved in this event?",2.0,10,0.9104987382888794,0
+"Okay, I see. Thank you for letting me know.",1.0,29,0.2349425107240677,0
+"Thank you, I really appreciate your cooperation. I really want to understand you better, so let's try to get to the bottom of the matter.",2.0,41,0.5560283064842224,0
+"Thank you, I just want to make sure I get it right. Looks like you're feeling today, is this a fairly accurate description of what you're feeling? Please feel free to correct me if not.",2.0,12,0.8647980690002441,0
+"I apologize for not understanding how you feel. May I ask you to choose from a list of emotions that more accurately reflect how you feel? If so, please let me know by selecting it:",2.0,17,0.8015173673629761,0
+"It's normal, thank you. I totally understand how you feel and it must be so hard.",2.0,15,0.6469525098800659,0
+"I'm sorry to hear you feel this way. So that I can help you better, can you tell me if a particular event has made you feel this way? Feel free to speak to me openly.",2.0,11,0.927667498588562,0
+Can you say that it was a recent or distant event so that I could get a better picture? I hope you were not too badly affected by this event.,1.0,16,0.895646333694458,0
+"I am very sorry that you are going through this. Have you tried the 9th injection, and if so, have you had negative thoughts about the recent past that have left your mind stuck in this event? If this has happened, I hope you have not suffered too much from this exercise.",2.0,21,0.8128913640975952,0
+"I understand that this can be difficult. Have you noticed any emotions that have arisen from the 10th grade attempt (if you have tried) in relation to past events? If this has happened, I hope you have not suffered too much from this exercise.",2.0,22,0.8365368843078613,0
+"I am sorry that you are offended, please bear with me while I try to explore this further. What I would like to do now is ask a few questions about what is going on just so that I can better understand what is going on.",2.0,10,0.7523922920227051,0
+"I agree with your emotions, and we will understand how to overcome them. Will you say that you have some negative attitude towards your childish self?",2.0,19,0.7840093374252319,0
+"Great! I am glad you are feeling positive now. It may be strange, given your current feelings now, but it is good to learn to overcome negative emotions.",2.0,23,0.8852267265319824,0
+"Thank you, it's great that you were able to identify the protective mechanism. Based on what you told me, I have selected a few drugs that may be useful to you. To help you feel better, would you like to try some of them at any time?",2.0,15,0.6783667802810669,0
+"You handled it so well. Now that the World Cup is over, do you feel different than before? I hope very much that the World Cup helped you, but feel free to tell me that this is not the case.",2.0,25,0.436271607875824,1
+"I'm glad Cole was able to help, but how about we try another one and see how we get on?",2.0,5,0.5703063607215881,0
+"I'm sorry you feel worse, but what about trying another one and seeing how we deal with it?",1.0,11,0.8720863461494446,0
+"I regret that, based on the information provided, I cannot find any protective mechanism in your case.",1.0,23,0.5900020003318787,0
+"Okay, thank you. I know it can be difficult for you to discuss, but your information was very useful.",2.0,15,0.664201557636261,0
+Would you like to share if you had been kind to yourself since childhood?,1.0,16,0.6249195337295532,0
+"Thank you, I know it's not always easy, but anything you can tell me will help me understand your situation better.",2.0,20,0.6304442286491394,0
+I really would like to better understand your emotions and reach out to you. Would you agree that the behavior of your childhood-self is becoming more childish in relation to {}?,2.0,21,0.8297744393348694,0
+"Good job! Thank you for being open with me. To better understand your negative emotions, I would like to ask, is there anyone else involved in this event other than your own childhood?",2.0,13,0.9119868278503418,0
+"Nice! Thank you for your cooperation. Based on what you said, your childhood-self felt but did not express {} in relation to {but is it possible that your childhood-self now expresses this in relation to others?",2.0,10,0.9679280519485474,1
+"Thank you, I appreciate your cooperation very much. Did your childhood experience some serious illness / trauma when people physically, sexually or psychologically abused them? I understand that reflecting on difficult events can sometimes be uncomfortable, but I will help you cope with difficult emotions and give you some advice later.",2.0,22,0.9663517475128174,0
+I get the impression that you feel {right}? Please feel free to correct me if not.,1.0,19,0.8046808838844299,0
+"Can you let me know how you feel by selecting the right emotion from the list below? If yes, please let me know by selecting it:",2.0,14,0.8331366777420044,0
+"That's fine, thank you. I fully understand how you feel and it must be so hard. Have you noticed that your childhood - I feel depressed or feel like a failure from time to time?",2.0,12,0.9211212396621704,0
+I'm so sorry to hear this. Was there something special that made you feel this way? You can be open with me.,2.0,7,0.8315752744674683,0
+"Can you say it was a recent or distant event so I could get a better picture? In any case, I hope it wasn't too traumatic for you.",2.0,16,0.9129576086997986,1
+"I am very sorry that you are going through this. Recently you tried the 9th injection and found that it is an uncontrollable emotion as a result of recent events? If it did happen, I hope you did not suffer too much from this exercise.",2.0,19,0.7587177157402039,0
+"I understand that this can be difficult. Have you tried the 10th injection, and if so, have you had negative thoughts about the past that have left your mind stuck in this event? If this has happened, I hope you have not suffered too much from this exercise.",2.0,21,0.7922753691673279,0
+"To understand why you feel this way in detail, I would like to ask you a few questions, if I may.",1.0,25,0.5664174556732178,0
+"I am in tune with your emotions, and we will understand how to overcome them. Do you say that you have a certain negative attitude towards your childhood self and betray your childhood self in a bad way?",2.0,23,0.8747482895851135,0
+"Bryant, I'm glad to hear it. But my job is to teach people how to manage negative emotions better. Are you interested in understanding the negative emotions you have had in the past?",2.0,30,0.7885246276855469,0
+"I know that it can be difficult to overcome these difficult emotions. For your situation, I have developed some useful tips that can help you cope with these negative emotions.",2.0,18,0.948361873626709,0
+"How do you feel after that, do you feel better or worse? I really hope the king helped you, but feel free to tell me if that is not the case.",2.0,15,0.5344337224960327,0
+I am glad that Cole was able to help. Would you like to pursue another offer?,2.0,7,0.463152676820755,0
+"It is sad to hear that you feel worse. I have other suggestions that could help, if you like.",2.0,6,0.8957325220108032,0
+"I apologize for the fact that, given what you have told me, I have been unable to identify any protective mechanism.",2.0,21,0.6720391511917114,0
+"Thank you, I see. I know it can be difficult for you to discuss, but your information was very useful.",2.0,16,0.6348594427108765,0
+"Thank you for sharing, it helps me understand what you went through. Do you think your childhood was very friendly?",2.0,12,0.8218230605125427,0
+"Thank you, I know it's not always easy, but anything you can tell me will help me understand your situation better.",2.0,29,0.5897451639175415,0
+"Great, thank you for your answer. I wish I could understand your emotions better and reach out to you. Did you behave like a child towards you? The more I understand, the more I can support you.",2.0,21,0.8064572811126709,0
+Great thing! Thank you for your trust so far. Can I know if this negative emotion was caused by someone else?,2.0,5,0.9710190296173096,0
+"I understand. Thank you for being open with me. From childhood, your ""self"" felt, but was not expressed in relation to {}. I would like to ask whether your ""self"" ever expressed it in relation to any other people?",2.0,19,0.8825845718383789,0
+"I appreciate that you share this with me. I hope you don't mind me asking if your childhood was experiencing some serious illness or bad things, such as physical or mental abuse, when they were small? I understand that thinking about difficult events can sometimes be uncomfortable, but I will help you cope with difficult emotions and give you some advice later.",2.0,17,0.9521256685256958,1
+"My impression is that you are today, is that true? Please correct me if I am wrong.",1.0,15,0.785927414894104,0
+"Please give me a bit of help to make sure that I really understand you can choose from this list of emotions the one that best describes how you feel: If so, please let me know by selecting it:",2.0,19,0.8921095132827759,0
+"Thank you for sharing this with me, I understand that it can be difficult. I would like to ask you if your childhood feels depressed or feels like a failure from time to time.",2.0,3,0.9723843336105348,0
+"I'm very sorry to hear this. Was there something special that made you feel this way? If so, I hope it wasn't too difficult for you.",2.0,8,0.8671165704727173,0
+"Sorry, it must have been hard. Was the event that caused these feelings recent, or was it in the distant past? I hope you were not too badly affected by this event.",2.0,8,0.9627820253372192,0
+"I am very sorry that you are going through this. Have you tried to complete Year 9 and it has led to some bad feelings because of what has happened in the recent past? If it has happened, I hope you have not suffered too much from this exercise.",2.0,18,0.802655816078186,1
+"I understand that this can be difficult. You recently tried the 10th injection and found that it causes uncontrollable emotions as a result of old events? If it did happen, I hope you were not too badly affected by this exercise.",2.0,21,0.7844278812408447,0
+"If you don't mind, I have a few more questions to help me understand the situation better.",1.0,24,0.6014149188995361,0
+I am in agreement with your emotions and we will figure out how to overcome them.,1.0,27,0.494887501001358,1
+"Bryant! I'm glad to hear that you are feeling great right now. I'm sorry to bother you, but my job is to help people cope better with difficult emotions. Are you interested in understanding the negative emotions you have had in the past? Can I ask you to recall a painful episode when you had difficult emotions?",2.0,14,0.8145474195480347,0
+"Based on what you have told me, I have selected a few options that may be useful to you. Would you be interested in trying any of them randomly?",2.0,17,0.4661189317703247,0
+"Can you tell if you feel better or worse after taking this drug? I very much hope that the drug has helped you, but feel free to tell me that this is not the case.",2.0,20,0.5751265287399292,0
+I am glad that Kohl was able to help. Would you like to try something new now?,2.0,4,0.6300812363624573,0
+"That's fine, not everyone feels better after the first one. What about trying another one and seeing how we deal with it?",2.0,9,0.8057014346122742,0
+"I regret that, based on the information provided, I cannot find any protective mechanism in your case.",1.0,23,0.5900020003318787,0
+"Thank you for that. I know it can be difficult for you to discuss, but your information has been very helpful.",2.0,18,0.559882402420044,0
+Thank you so much for that. It helps me understand what you are going through.,2.0,12,0.5369543433189392,0
+"Thank you, I know it's not always easy, but anything you can tell me will help me understand your situation better.",2.0,30,0.6074749231338501,0
+"Thank you for your answer. I really would like to better understand your emotions and extend a hand to you. As for {}, does your childish self seem more childish or primitive?",2.0,18,0.8007948398590088,0
+Thank you for your trust and patience so far. You've done a great job! Have you interacted with anyone else that caused this negative emotion?,2.0,8,0.864923357963562,0
+I understand. Thank you for being open with me. Do you think your childhood-I don't bring your {to} but to another person?,2.0,13,0.7817437648773193,0
+"I know that thinking about the events in which you suffered can sometimes be uncomfortable. But let me ask whether your childhood suffered some serious illness or perhaps trauma, such as physical, sexual, or psychological abuse?",2.0,26,0.7871327996253967,0
+Thank you for that. Do I really think you feel {right now}? Please feel free to correct me if not.,2.0,10,0.8981174230575562,0
+"My apologies. Please give me a bit of help to make sure that I really understand, you can choose from this list of emotions the one that best describes how you feel: If so, please let me know by selecting it:",2.0,7,0.9572131037712096,0
+"Well, thank you for that. Can you please tell me that if your childhood - I felt depressed or wanted to be a failure from time to time.",2.0,7,0.9328722953796388,1
+I'm so sorry to hear this. Was there something special that made you feel this way? Feel free to speak to me openly.,2.0,9,0.8451931476593018,0
+"Sorry, it must have been hard. Was the event that triggered these feelings recent, or was it in the distant past?",2.0,14,0.8577443361282349,0
+"I am very sorry that you are going through this. Let me ask you if you tried to understand better the emotions you were experiencing but it was too painful to go through this? If it did happen, I hope you did not suffer too much from this exercise.",2.0,22,0.900762677192688,1
+"I understand that it can be difficult. You recently tried to move on from this past event with the number 10, and did the injury you visited again become too difficult to manage? If it did happen, I hope you did not suffer too much from this exercise.",2.0,19,0.8648286461830139,0
+"I am sorry that you are offended, please bear with me while I try to investigate this further. I would like to better understand what happened by asking a few additional questions.",2.0,4,0.8292171359062195,0
+I am in agreement with your emotions and we will figure out how to overcome them.,1.0,26,0.4916419982910156,1
+"Bryant, I'm glad to hear it! I'm sorry to bother you, but are you interested in understanding your negative emotions that you had in the past? If that's OK, can you recall a painful episode when you had difficult emotions?",2.0,12,0.826152503490448,0
+I will give you some advice on how to deal with negative emotions based on what you have told me.,1.0,22,0.8311245441436768,0
+"How do you feel after taking the drug? I very much hope that the drug has helped you, but feel free to say that this is not the case.",2.0,21,0.552315890789032,0
+I'm glad Cole was able to help - wouldn't it be better to try his hand at other clubs?,2.0,13,0.270553857088089,0
+"It's normal, not everyone feels better after the first one.",0.0,10,0.644911527633667,0
+I am sorry that I cannot find any defense mechanism based on your answers. Would you like to repeat it again for more information or to end the conversation?,2.0,12,0.8611456155776978,0
+"Okay, thank you. I know it can be difficult for you to discuss, but your information has been very helpful. Can you let me know if you've ever had a real struggle with {?",2.0,10,0.7088931798934937,1
+"Thanks for sharing, it helps me understand what you've been through.",1.0,11,0.6426916122436523,0
+"Okay, thank you. I know it's not always easy, but anything you can tell me will help me understand your situation better.",2.0,47,0.5329728126525879,0
+"If I may, was your childish self really childish or primitive to {?",1.0,24,0.655499279499054,1
+"Okay, thank you for your cooperation! Let me ask if there are any other people in this event who cause you these negative emotions?",1.0,9,0.7974370718002319,0
+"I understand, thank you for letting me know. I know that your childhood-I felt for myself {but did not express it}.",2.0,20,0.7818701267242432,0
+"I understand that it can be very uncomfortable to reflect on difficult events of the past, but I am here to help you cope with difficult emotions.",2.0,46,0.7395828366279602,0
+"Thank you for trusting me by sharing how you feel. From what you have told me, I would say that you feel {right now}, does that sound right? Please feel free to correct me if not.",2.0,8,0.804756760597229,0
+"I sincerely apologize. May I ask you to choose from a list of emotions that more accurately reflect how you feel? If so, please let me know by selecting it:",2.0,13,0.7926355600357056,0
+"Thank you for being so open, I am trying to figure out the best way to help and know how difficult it is to return to trauma. Would you mind my question if your childhood makes me feel depressed or feels like a failure from time to time?",2.0,13,0.915117084980011,0
+"Thank you for sharing your emotions with me, I understand that it can be difficult to deal with them right now. Can you tell me if it was caused by a specific event or events that you could share? You can be open with me.",2.0,3,0.9867098927497864,0
+"I am sorry to hear about this. Is there any recent event, in particular, that you could single out as the reason for it, or is it an event that happened some time ago? I hope you have not been too badly affected by this event.",2.0,18,0.8154308199882507,0
+"I am very sorry that you are going through this. Let me ask you if you went through the 9th grade and found that it caused heavy emotions? If it did, I hope you did not suffer too much from this exercise.",2.0,19,0.7951827049255371,0
+"Thank you for being so open, I am trying to figure out the best way to help and know how hard it is to go through a trauma. Recently you tried the Kohl 10 and may have found that it didn't work out as well as you hoped? If it did, I hope you didn't suffer too much from this exercise.",2.0,24,0.8078335523605347,0
+"Thank you for sharing your feelings with me, I appreciate your trust. If all is well, I am going to ask a few questions to better understand what you are going through.",2.0,11,0.9602863788604736,0
+"I agree with your emotions, and we will understand how to overcome them. Will you say that you have some negative attitude towards your childish self?",2.0,19,0.7840093374252319,0
+"That's good! I'm glad to hear that you are feeling positive now. I'm sorry to bother you, but are you interested in understanding your negative emotions that you had in the past? If it's normal to continue, let me ask you to recall a painful episode when you had difficult emotions?",2.0,11,0.9769682884216307,0
+"To help you cope with negative feelings, I have collected some tips on how to deal with negative feelings that you might find useful.",2.0,22,0.797866702079773,0
+"How do you feel after taking this drug? I very much hope that the drug has helped you, but feel free to say that this is not the case.",2.0,18,0.5592315196990967,0
+How about we try another proposal and see how we go from there?,0.0,9,0.6359535455703735,0
+"That's fine, not everyone feels better after the first one. Maybe we should sit down together and try another cocktail that could do you more good?",2.0,8,0.6857620477676392,0
+I am sorry that I cannot single out any defensive mechanism from what you have told me.,2.0,20,0.683373212814331,0
+"Okay, thank you. I know it can be difficult for you to discuss, but your information was very useful.",2.0,15,0.664201557636261,0
+"Thank you for sharing, it helps me understand what you went through. Could you tell me if you were extremely friendly as a child?",2.0,12,0.7775431871414185,0
+"Okay, thank you. I know it's not always easy, but anything you can tell me will help me understand your situation better.",2.0,52,0.5300073027610779,0
+Let me better understand your emotions to help you. Has your childish behavior become more childish or primitive in relation to {?,1.0,12,0.8287190198898315,1
+Good job! Thank you for collaborating. Did you ever think this bad feeling had anything to do with your interaction with someone else?,2.0,9,0.719813346862793,0
+"I understand, thank you for letting me know. Maybe your childhood-I feel {about} without expressing it, but will you say that your childhood-I carry my emotions on another person?",2.0,11,0.8777515888214111,0
+"Thank you, I appreciate your cooperation very much. I know that it can be uncomfortable to think about difficult events that have occurred. I hope you don't mind me asking if your child entity has experienced any serious illness or trauma, for example, has your child entity ever been physically, sexually, or psychologically abused by others?",2.0,14,0.9053070545196532,0
+"Thank you for being open and sharing with me. From what I can gather, do you feel {right}? Please feel free to correct me if not.",2.0,8,0.8810434341430664,0
+"If so, please let me know by selecting it:",0.0,29,0.3806206583976745,0
+"Thank you, I fully understand how you feel and it must be so hard.",1.0,20,0.586333155632019,0
+"Can you tell me if it was caused by a specific event or events you could share? If so, I hope it wasn't too difficult for you.",1.0,21,0.7257764339447021,0
+"I am sorry to hear about this. Is there any recent event, in particular, that you could single out as the reason for it, or is it an event that happened some time ago?",2.0,23,0.72461998462677,0
+"Can you tell me that you recently worked on ""Coal 9,"" and it brought back some bad feelings from this recent event? If that happened, I hope you didn't suffer too much from this exercise.",2.0,18,0.6975529193878174,0
+"Thank you for sharing this with me, I understand that it can be difficult. Have you tried to rethink this event by trying the 10th injection and, if so, how it was, did it bring back difficult emotions? If it did, I hope you were not too badly affected by this exercise.",2.0,21,0.8913569450378418,0
+"Thank you for letting me know, I appreciate it. To understand why you feel this way, I would now like to ask you a few questions, if I may.",2.0,9,0.8833948373794556,0
+I am in agreement with your emotions and we will figure out how to overcome them.,1.0,33,0.438759982585907,1
+"If you are happy to continue our conversation, may I ask you to recall a time when you had difficult emotions in the past?",1.0,36,0.7934714555740356,0
+"If you want more help, I have collected some helpful tips to combat negative emotions, which I hope you will find useful! Would you like to try some of them?",2.0,17,0.8682273626327515,0
+"Thank you and welcome back. Now that the perch is over, do you feel different than before? I very much hope that the perch has helped you, but feel free to tell me if this is not the case.",2.0,17,0.48476442694664,1
+Amazing! This is great news. Would you like to try another cocktail?,2.0,3,0.6692332625389099,0
+"Not every king works for everyone, and that's fine, I would recommend not giving up and trying again. I have other suggestions that could help if you like.",2.0,3,0.4996731281280517,0
+"I am sorry that I cannot single out any defensive mechanism from what you have told me. Are you willing to give me another chance to play it again, or to finish the conversation now?",2.0,13,0.8338867425918579,0
+"Okay, thank you. I know it can be difficult for you to discuss, but your information was very useful.",2.0,18,0.6944199800491333,0
+"Thank you for sharing, it helps me to understand what you went through. Then think carefully about it, does your childhood treat you exceptionally friendly?",2.0,10,0.9062962532043456,0
+"Okay, thank you. I know it's not always easy, but anything you can tell me will help me understand your situation better.",2.0,29,0.5189049243927002,0
+"Compared to other people, do you think that your childish behavior is more childish or primitive with {?}? I would very much like to understand your emotions better and reach out to you.",1.0,18,0.7672995328903198,0
+"Thank you very much for your cooperation, I appreciate it very much. In my experience, this kind of bad feeling can be caused by interaction with other people.",2.0,16,0.9270278215408324,0
+"Well, thank you for your answer. From what you told me, your childhood-I felt, but did not express {relative}.",2.0,26,0.6229133605957031,0
+"I know that it can be uncomfortable to think about difficult events that have occurred. To understand your situation better, you wouldn't mind if I asked if your childhood suffered from some serious illness or trauma, that people subjected them to physical / sexual / psychological abuse?",2.0,28,0.8614344596862793,1
+Thank you very much for your contribution. I think you feel {would} I be right to say this? Please feel free to correct me if not.,2.0,11,0.6761365532875061,0
+"Sorry, I must have misunderstood the situation. How do you feel today, if you don't mind me asking, could you please select from the list below what you think is closest to your current mood? If so, please let me know by selecting it:",2.0,8,0.8648500442504883,0
+I understand that this can be difficult. May I ask whether your childhood feels depressed or likes to be a failure from time to time?,2.0,7,0.9327059984207152,0
+"Thank you for sharing your emotions with me, I understand that they can now be difficult to deal with. Can you tell me if it was caused by a specific event or events that you could share? Feel free to tell me openly.",2.0,9,0.979258120059967,0
+"Sorry, it must have been hard. Would you say that this event happened only recently, or something from a more distant past? I hope you were not too affected by this event.",2.0,13,0.8967914581298828,0
+"I am very sorry that you are going through this. Have you noticed any emotions that have arisen from the 9th grade attempt (if you have tried to do so) in connection with the recent events? If this has happened, I hope that you have not suffered too much from this exercise.",2.0,28,0.8548322916030884,0
+"I am very sorry that you are going through this. Have you noticed any emotions that have arisen from attempt 10 (if you have tried to do so) because of past events? If this has happened, I hope you have not suffered too much from this exercise.",2.0,23,0.8752522468566895,0
+"If all is well, I'm going to ask a few questions to better understand what you're going through.",1.0,20,0.7165511846542358,0
+"Thank you very much for sharing, I appreciate it very much. I am in tune with your emotions and we will understand how to overcome them.",2.0,20,0.6648595333099365,1
+"Amazing! I'm glad to hear you feel positive today. I'm sorry to bother you, and I know it's a bit strange, but are you interested in understanding your negative emotions that you had in the past? If you want to continue our conversation, let me ask you to recall a time in your past when you had difficult emotions?",2.0,21,0.9701160192489624,0
+"I have some tips to help you cope better with complex events, would you like to look in at any moment?",1.0,19,0.599929690361023,0
+"Thank you and welcome back. Could you tell me if you feel better or worse after taking this drug? I very much hope that the drug has helped you, but feel free to tell me if this is not the case.",2.0,11,0.6723078489303589,0
+Amazing! This is great news. How about we try another one and see how we go from there?,2.0,5,0.9439897537231444,0
+"Not every drug works for everyone, and that's fine, I would recommend not giving up and trying again. Maybe we should sit down and try another drug that might be more beneficial for you?",2.0,5,0.6587817072868347,0
