@@ -128,7 +128,7 @@ def get_distance(s1, s2):
   '''
   s1 = re.sub(r'[^\w\s]', '', s1.lower()) #preprocess
   s2 = re.sub(r'[^\w\s]', '', s2.lower())
-  max_n = len(s1) if len(s1) < len(s2) else len(s2)
+  max_n = max(len(s1), len(s2))
   normalised_dis = pylev.levenschtein(s1.split(), s2.split())/(max_n) #normalised
   return normalised_dis
 
